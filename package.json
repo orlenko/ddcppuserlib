@@ -1,0 +1,25 @@
+{
+  "name": "ddcppuserlib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlenko/ddcppuserlib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlenko/ddcppuserlib/issues"
+  },
+  "homepage": "https://github.com/orlenko/ddcppuserlib#readme",
+  "dependencies": {
+    "cpp_common": "github:dronedeploy/cpp_common#v1.3.0"
+  }
+}
